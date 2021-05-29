@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "55877060569",
+    "project_id": "kieuvutrinhappbtl",
+    "storage_bucket": "kieuvutrinhappbtl.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55877060569:android:3b2447fa4ecb69ed5d7bc8",
+        "android_client_info": {
+          "package_name": "com.example.kieuvutrinh_appbtl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55877060569-rtd853j4di6ng3rh58ntir8d5eh9eam6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHXy0amjHvi_qTspm_m7DQk7kirmShCgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55877060569-rtd853j4di6ng3rh58ntir8d5eh9eam6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:icon="@drawable/ic_food"
+        android:title="Hướng dẫn nấu ăn"
+        android:id="@+id/food"
+        />
+    <item android:icon="@drawable/ic_heart"
+        android:title="Hướng dẫn làm đẹp"
+        android:id="@+id/heart"
+        />
+</menu>
